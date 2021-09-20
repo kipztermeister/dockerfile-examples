@@ -26,7 +26,7 @@
 #    Just keep in mind that's giving you a shell in a new instance of the image not 
 #    connecting you to an already running container.
 
-FROM ubuntu
+FROM ubuntu:latest@sha256:9d6a8699fb5c9c39cf08a0871bd6219f0400981c570894cd8cbea30d3424a31f
 MAINTAINER Kimbro Staken
 
 RUN echo "0.2" > /version
