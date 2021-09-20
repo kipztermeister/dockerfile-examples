@@ -1,5 +1,5 @@
 FROM kipztermeister/nodetest:latest
-# comment 2
+# comment 3
 MAINTAINER Kimbro Staken
 
 RUN apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
