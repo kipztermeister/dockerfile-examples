@@ -1,4 +1,4 @@
-FROM kipztermeister/nodetest:latest
+FROM kipztermeister/nodetest:latest@sha256:154e27908d98ae04ddcae9ab41a2283301ac09db160ec1a07eb48f9ccd807a71
 # comment 7
 MAINTAINER Kimbro Staken
 
