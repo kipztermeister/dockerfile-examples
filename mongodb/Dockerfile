@@ -1,4 +1,4 @@
-FROM kipztermeister/nodetest:latest
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1
 # comment 7
 MAINTAINER Kimbro Staken
 
