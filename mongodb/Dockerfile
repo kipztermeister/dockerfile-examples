@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1@sha256:8774ebc71462ae1eb77dcf93b5c4eb299efeff4139649a1207cfa033a6a7ab9a
 # comment 7
 MAINTAINER Kimbro Staken
 
