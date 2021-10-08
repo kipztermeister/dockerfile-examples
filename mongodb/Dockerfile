@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+FROM ghcr.io/kipztermeister/nodetest:main
 # comment 10
 MAINTAINER Kimbro Staken
 
