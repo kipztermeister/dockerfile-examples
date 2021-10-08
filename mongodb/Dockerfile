@@ -1,4 +1,4 @@
-FROM ghcr.io/kipztermeister/nodetest:main
+FROM ghcr.io/kipztermeister/nodetest:main@sha256:25903ef7ae4755097b5c8ed30b392f291431557f72c24e8e95ec541135711542
 # comment 11
 MAINTAINER Kimbro Staken
 
