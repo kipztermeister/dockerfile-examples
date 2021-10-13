@@ -16,7 +16,7 @@
 #
 # docker run -i -t mysql-server mysql -u admin -p -h $MYSQL_IP
 
-FROM ubuntu:12.04
+FROM ubuntu:12.04@sha256:18305429afa14ea462f810146ba44d4363ae76e4c8dfc38288cf73aa07485005
 
 MAINTAINER Kimbro Staken version: 0.1
 
