@@ -1,4 +1,4 @@
-FROM ghcr.io/kipztermeister/nodetest:main
+FROM kipztermeister/atomist-docker-tutorial:main
 # comment 11
 MAINTAINER Kimbro Staken
 
